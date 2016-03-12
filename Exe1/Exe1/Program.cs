@@ -10,7 +10,7 @@ namespace Exe1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("Eyaloosh");
         }
     }
 }
